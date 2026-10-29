@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:312e81,100:06b6d4&text=SAI%20KIRAN%20MANTHRI&fontColor=ffffff&fontSize=38&fontAlignY=45&desc=BACKEND%20ENGINEER%20%7C%20AGENTIC%20AI&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="Sai Kiran Manthri — Backend Engineer and Agentic AI"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:312e81,100:06b6d4&text=SAI%20KIRAN%20MANTHRI&fontColor=ffffff&fontSize=38&fontAlignY=45&desc=BACKEND%20ENGINEER%20%7C%20AGENTIC%20AI&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="Sai Kiran Manthri — Full-Stack Engineer and Agentic AI"/>
 
 <a href="https://www.linkedin.com/in/sai-kiran-manthri-298b6b117/">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
